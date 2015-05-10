@@ -21,7 +21,6 @@ class ReverseNumber
         string reversedNumber = new string(reversed);
         double newNumber = double.Parse(reversedNumber);
         return newNumber;
-
     }
 }
 
